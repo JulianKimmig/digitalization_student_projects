@@ -1,0 +1,3 @@
+[submodule "student_project_chemblocks"]
+	path = student_project_chemblocks
+	url = https://github.com/JulianKimmig/student_project_chemblocks.git
