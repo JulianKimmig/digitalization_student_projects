@@ -3,7 +3,7 @@ Collection of possible student projects.
 Projects are stored as submodules.
 Each Projects has a short "idea" of the skills the student will have to learn to fully emerge in the project. The skills are not required to start with the project, but a motivation to learn the skills is mandatory. All mehtods required to learn the skills, small crash-courses and regular Q&A sessions will be provided but it is not possible to completly teach everthing under supervised conditions. 
 
-List of runnung projects:
+List of runnung projects (most projects are private, if not invidted links will result in a 404):
 * [Chemblocks](https://github.com/JulianKimmig/student_project_chemblocks) (Visual editor for chemical reaction planning)
 	skills: general understanding of chemical reactions, webdevelopment (javascript,html,css)
 * online management tool for storing chemical and analytical data (similar to pubchem) but with a focus on polymers
