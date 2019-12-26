@@ -1,1 +1,1 @@
-digitliazation_student_projects
+Collection of possible student projects. Projects are stored as submodules
